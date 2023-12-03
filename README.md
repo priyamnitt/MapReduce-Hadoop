@@ -1,5 +1,5 @@
 # MapReduce-Hadoop
-MapReduce-Hadoop
+MapReduce-Hadoop<br>
 <img width="604" alt="Screenshot 2023-12-03 at 11 52 47" src="https://github.com/priyamnitt/MapReduce-Hadoop/assets/104387538/6d46aa3d-c957-4009-b1f1-0a0af5ba05c5">
 
 ## Installation details
