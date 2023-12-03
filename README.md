@@ -1,3 +1,9 @@
+# About me
+<img width="263" alt="Screenshot 2023-12-03 at 12 09 51" src="https://github.com/priyamnitt/MapReduce-Hadoop/assets/104387538/03f4c53b-6043-4728-95f3-99d39e92a387">\
+<b>Name - PRIYAM KUMAR\
+Roll No - 114121069
+Course - CSOE11 Big Data Analytics</b>
+
 # MapReduce-Hadoop
 MapReduce-Hadoop<br>
 <img width="604" alt="Screenshot 2023-12-03 at 11 52 47" src="https://github.com/priyamnitt/MapReduce-Hadoop/assets/104387538/6d46aa3d-c957-4009-b1f1-0a0af5ba05c5">
