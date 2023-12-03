@@ -14,6 +14,15 @@ wget https://archive.apache.org/dist/hadoop/core/hadoop-3.3.6/hadoop-3.3.6.tar.g
 tar -xvf hadoop-3.3.6.tar.gz
 ```
 
+<b> Add following external jars in eclipse project</b>
+From root node of project, go to `Build Path → Configure Build Path` from context menu.\
+In the Libraries tab, click Add External Jars...
+* hadoop-2.4.0/share/hadoop/hdfs/hadoop-common-3.3.6.jar
+* hadoop-2.4.0/share/hadoop/hdfs/hadoop-hdfs-3.3.6.jar
+* hadoop-2.4.0/share/hadoop/mapreduce/hadoop-mapreduce-client-common-3.3.6.jar
+* hadoop-2.4.0/share/hadoop/mapreduce/hadoop-mapreduce-client-core-3.3.6.jar
+* ...
+
 <b>Confirm Installation</b>
 ```
 priyamkr:~$ java -version
